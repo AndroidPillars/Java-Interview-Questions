@@ -1,9 +1,9 @@
 # Java.
-OOPS Concept.
-Object
-Class
-Inheritance
-Polymorphism
+# OOPS Concept.
+# Object
+# Class
+# Inheritance
+# Polymorphism
 Abstraction
 Encapsulation
 Java Naming conventions

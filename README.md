@@ -24,7 +24,7 @@ Instance Initializer block
 Final Keyword
 RunTime Polymorphism
 Dynamic Binding 
-Instance of Operator
+Instance of Operator.
 
 Java Abstraction.
 Abstract Class
